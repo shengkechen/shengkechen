@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://橘子.wang/sitemap.xml/about/</loc>
+    
+    <lastmod>2020-11-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://橘子.wang/sitemap.xml/hello-world/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://橘子.wang/sitemap.xml/tags/</loc>
+    
+    <lastmod>2020-08-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://橘子.wang/sitemap.xml/categories/</loc>
+    
+    <lastmod>2020-08-29</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://橘子.wang/sitemap.xml</loc>
+    <lastmod>2020-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
