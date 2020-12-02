@@ -2,28 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://橘子.wang/sitemap.xml/11.30/</loc>
+    <loc>https://shengkechen.vercel.app/sitemap.xml/Slime-Rancher/</loc>
+    
+    <lastmod>2020-12-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://shengkechen.vercel.app/sitemap.xml/Hearthstone-Battlegrounds/</loc>
+    
+    <lastmod>2020-12-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://shengkechen.vercel.app/sitemap.xml/11.30/</loc>
     
     <lastmod>2020-12-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://橘子.wang/sitemap.xml/about/</loc>
+    <loc>https://shengkechen.vercel.app/sitemap.xml/about/</loc>
     
     <lastmod>2020-11-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://橘子.wang/sitemap.xml/tags/</loc>
+    <loc>https://shengkechen.vercel.app/sitemap.xml/tags/</loc>
     
     <lastmod>2020-08-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://橘子.wang/sitemap.xml/categories/</loc>
+    <loc>https://shengkechen.vercel.app/sitemap.xml/categories/</loc>
     
     <lastmod>2020-08-29</lastmod>
     
@@ -31,8 +45,8 @@
   
 
   <url>
-    <loc>https://橘子.wang/sitemap.xml</loc>
-    <lastmod>2020-12-01</lastmod>
+    <loc>https://shengkechen.vercel.app/sitemap.xml</loc>
+    <lastmod>2020-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
