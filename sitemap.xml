@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml/Hearthstone-Battlegrounds/</loc>
+    <loc>https://shengkechen.vercel.app/Hearthstone-Battlegrounds/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml/Slime-Rancher/</loc>
+    <loc>https://shengkechen.vercel.app/Slime-Rancher/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml/about/</loc>
+    <loc>https://shengkechen.vercel.app/about/</loc>
     
     <lastmod>2020-11-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml/tags/</loc>
+    <loc>https://shengkechen.vercel.app/tags/</loc>
     
     <lastmod>2020-08-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml/categories/</loc>
+    <loc>https://shengkechen.vercel.app/categories/</loc>
     
     <lastmod>2020-08-29</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml</loc>
+    <loc>https://shengkechen.vercel.app/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,7 +46,7 @@
 
   
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml/tags/%F0%9F%8E%AE%E6%94%BB%E7%95%A5/</loc>
+    <loc>https://shengkechen.vercel.app/tags/%F0%9F%8E%AE%E6%94%BB%E7%95%A5/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -55,7 +55,7 @@
 
   
   <url>
-    <loc>https://shengkechen.vercel.app/sitemap.xml/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://shengkechen.vercel.app/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

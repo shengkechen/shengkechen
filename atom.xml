@@ -3,11 +3,11 @@
   <title>SK&#39;s 讯息站</title>
   
   <subtitle>感谢orange的tech support</subtitle>
-  <link href="https://shengkechen.vercel.app/sitemap.xml/atom.xml" rel="self"/>
+  <link href="https://shengkechen.vercel.app/atom.xml" rel="self"/>
   
-  <link href="https://shengkechen.vercel.app/sitemap.xml/"/>
+  <link href="https://shengkechen.vercel.app/"/>
   <updated>2020-12-03T13:22:55.472Z</updated>
-  <id>https://shengkechen.vercel.app/sitemap.xml/</id>
+  <id>https://shengkechen.vercel.app/</id>
   
   <author>
     <name>Shengke Chen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hearthstone Battlegrounds</title>
-    <link href="https://shengkechen.vercel.app/sitemap.xml/Hearthstone-Battlegrounds/"/>
-    <id>https://shengkechen.vercel.app/sitemap.xml/Hearthstone-Battlegrounds/</id>
+    <link href="https://shengkechen.vercel.app/Hearthstone-Battlegrounds/"/>
+    <id>https://shengkechen.vercel.app/Hearthstone-Battlegrounds/</id>
     <published>2020-12-02T09:10:24.000Z</published>
     <updated>2020-12-03T13:22:55.472Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="-游戏" scheme="https://shengkechen.vercel.app/sitemap.xml/categories/%E6%B8%B8%E6%88%8F/"/>
+    <category term="-游戏" scheme="https://shengkechen.vercel.app/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="-🎮攻略" scheme="https://shengkechen.vercel.app/sitemap.xml/tags/%F0%9F%8E%AE%E6%94%BB%E7%95%A5/"/>
+    <category term="-🎮攻略" scheme="https://shengkechen.vercel.app/tags/%F0%9F%8E%AE%E6%94%BB%E7%95%A5/"/>
     
   </entry>
   
   <entry>
     <title>slime rancher</title>
-    <link href="https://shengkechen.vercel.app/sitemap.xml/Slime-Rancher/"/>
-    <id>https://shengkechen.vercel.app/sitemap.xml/Slime-Rancher/</id>
+    <link href="https://shengkechen.vercel.app/Slime-Rancher/"/>
+    <id>https://shengkechen.vercel.app/Slime-Rancher/</id>
     <published>2020-12-01T22:43:27.337Z</published>
     <updated>2020-12-03T13:16:38.506Z</updated>
     
@@ -52,7 +52,7 @@
     
     
     
-    <category term="-🎮攻略" scheme="https://shengkechen.vercel.app/sitemap.xml/tags/%F0%9F%8E%AE%E6%94%BB%E7%95%A5/"/>
+    <category term="-🎮攻略" scheme="https://shengkechen.vercel.app/tags/%F0%9F%8E%AE%E6%94%BB%E7%95%A5/"/>
     
   </entry>
   
