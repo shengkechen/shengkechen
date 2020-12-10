@@ -1200,7 +1200,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f6a328;
+  background: #323794;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2500,8 +2500,8 @@ body {
   margin-top: 100px;
   margin-bottom: 100px;
   padding: 50px;
-  -webkit-box-shadow: 0 0 5px rgba(20,90,205,0.5);
-  -moz-box-shadow: 0 0 5px rgba(20,90,205,0.5);
+  -webkit-box-shadow: 0 0 20px rgba(178,34,34,0.5);
+  -moz-box-shadow: 0 0 20px rgba(178,34,34,0.5);
 }
 .sidebar {
   opacity: 0.8;
@@ -2514,9 +2514,9 @@ body {
   opacity: 0.8;
 }
 .post {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 100px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(255,0,255,0.5);
-  -moz-box-shadow: 0 0 5px rgba(255,0,255,0.5);
+  padding: 30px;
+  -webkit-box-shadow: 0 0 10px rgba(0,0,128,0.5);
+  -moz-box-shadow: 0 0 10px rgba(0,0,128,0.5);
 }
